@@ -47,7 +47,7 @@ namespace movie_ticket_boking
             {
                 MessageBox.Show("please check again");
             }
-        }
+}
 
         private void topmovietable()
         {

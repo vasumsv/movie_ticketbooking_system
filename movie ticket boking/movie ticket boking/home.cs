@@ -18,6 +18,7 @@ namespace movie_ticket_boking
         {
             InitializeComponent();
             bookingtable();
+            topmovietable();
         }
 
         private void booknowToolStripMenuItem_Click(object sender, EventArgs e)
@@ -70,6 +71,30 @@ namespace movie_ticket_boking
         private void exToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.SetVisibleCore(false);
+        }
+
+        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+        private void topmovietable()
+        {
+            try
+            {
+                con.Open();
+                SqlCommand cmd = new SqlCommand("select movie_name from movie", con);
+                cmd.CommandType = CommandType.Text;
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
+                DataSet ds = new DataSet();
+                da.Fill(ds, "ss");
+                dataGridView2.DataSource = ds.Tables["ss"];
+                con.Close();
+
+            }
+            catch
+            {
+                MessageBox.Show("No Record Found");
+            }
         }
     }
 }
