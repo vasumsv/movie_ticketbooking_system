@@ -11,4 +11,38 @@
  After running this command the movie ticket Booking System project folder will be downloaded in your system.
 
   Once you run the project ,the project will look like this
-![Drag Racing](1.jpg)
+  
+  ## Home Page
+  
+![1](https://github.com/vasumsv/movie_ticketbooking_system/blob/master/movie%20ticket%20boking/screenshots/1.png)
+
+
+
+## Booking Ticket
+
+![2](https://github.com/vasumsv/movie_ticketbooking_system/blob/master/movie%20ticket%20boking/screenshots/2.png)
+
+## Admin Login 
+
+
+![5](https://github.com/vasumsv/movie_ticketbooking_system/blob/master/movie%20ticket%20boking/screenshots/5.png)
+
+## Admin Control 
+
+
+![6](https://github.com/vasumsv/movie_ticketbooking_system/blob/master/movie%20ticket%20boking/screenshots/6.png)
+
+## Movies List
+
+
+![3](https://github.com/vasumsv/movie_ticketbooking_system/blob/master/movie%20ticket%20boking/screenshots/3.png)
+
+## About
+
+
+![4](https://github.com/vasumsv/movie_ticketbooking_system/blob/master/movie%20ticket%20boking/screenshots/4.png)
+
+
+
+# Have a Great Day :)
+
