@@ -13,3 +13,13 @@ G:\visual projects\Bcom project\movie ticket boking\movie ticket boking\obj\Debu
 G:\visual projects\Bcom project\movie ticket boking\movie ticket boking\obj\Debug\movie_ticket_boking.admin.resources
 G:\visual projects\Bcom project\movie ticket boking\movie ticket boking\obj\Debug\movie_ticket_boking.movies.resources
 G:\visual projects\Bcom project\movie ticket boking\movie ticket boking\obj\Debug\movie_ticket_boking.about.resources
+G:\visual projects\movie_ticketbooking_system\movie ticket boking\movie ticket boking\obj\Debug\movie ticket boking.csprojAssemblyReference.cache
+G:\visual projects\movie_ticketbooking_system\movie ticket boking\movie ticket boking\obj\Debug\movie_ticket_boking.about.resources
+G:\visual projects\movie_ticketbooking_system\movie ticket boking\movie ticket boking\obj\Debug\movie_ticket_boking.admin.resources
+G:\visual projects\movie_ticketbooking_system\movie ticket boking\movie ticket boking\obj\Debug\movie_ticket_boking.Booknow.resources
+G:\visual projects\movie_ticketbooking_system\movie ticket boking\movie ticket boking\obj\Debug\movie_ticket_boking.Form1.resources
+G:\visual projects\movie_ticketbooking_system\movie ticket boking\movie ticket boking\obj\Debug\movie_ticket_boking.home.resources
+G:\visual projects\movie_ticketbooking_system\movie ticket boking\movie ticket boking\obj\Debug\movie_ticket_boking.movies.resources
+G:\visual projects\movie_ticketbooking_system\movie ticket boking\movie ticket boking\obj\Debug\movie ticket boking.csproj.GenerateResource.cache
+G:\visual projects\movie_ticketbooking_system\movie ticket boking\movie ticket boking\obj\Debug\movie ticket boking.exe
+G:\visual projects\movie_ticketbooking_system\movie ticket boking\movie ticket boking\obj\Debug\movie ticket boking.pdb
