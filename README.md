@@ -1,4 +1,4 @@
-#  Movie Ticket Booking System
+#  Movie Ticket Booking System #
 
  Movie ticket booking System is a application which can run in any operating system like Windows, Mac os or Linux.
  This application works offline and data can be stored in your local machine .The database which we used here is _Microsoft MySQL Database_ . 
