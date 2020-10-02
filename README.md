@@ -18,7 +18,7 @@
 
 
 
-## Booking Ticket
+## Booking Ticket For Movie
 
 ![2](https://github.com/vasumsv/movie_ticketbooking_system/blob/master/movie%20ticket%20boking/screenshots/2.png)
 
@@ -32,7 +32,7 @@
 
 ![6](https://github.com/vasumsv/movie_ticketbooking_system/blob/master/movie%20ticket%20boking/screenshots/6.png)
 
-## Movies List
+## List of movies
 
 
 ![3](https://github.com/vasumsv/movie_ticketbooking_system/blob/master/movie%20ticket%20boking/screenshots/3.png)
